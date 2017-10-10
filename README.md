@@ -1,1 +1,1 @@
-Code of Machine Learning project
+Code for different Machine Learning ventures
