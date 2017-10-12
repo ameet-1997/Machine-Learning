@@ -1,3 +1,5 @@
 Use the function just like how scikit-leard QDA works.
 Warning: predict_proba does not actually output probabilities. Scaling is required
 predict works fine
+
+alpha and gamma are regularization parameters. Use Elements of Statistical Learning to check functionality.
