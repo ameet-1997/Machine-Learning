@@ -5,7 +5,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from nltk.corpus import stopwords
 from sklearn.naive_bayes import MultinomialNB
 import sys
-sys.path.insert(0,"/media/ameet/8AD2C89ED2C88FBD/Books and Documents/Academics/IIT/Small Projects/Spam Classification/Test Sets/")
+sys.path.insert(0,"Test Sets/")
 import set_test_data
 
 # Process all the files and store the text in a data frame
